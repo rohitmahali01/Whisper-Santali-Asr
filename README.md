@@ -1,2 +1,8 @@
 # Whisper-Santali-Asr
-Custom whisper model trained for Santali language using the santali tokenizer 
+Custom whisper model trained for Santali language using the santali tokenizer using my santali tokenizer (https://github.com/rohitmahali01/Santali-Tokenizer)
+# Current Word Error Rate is 1.28 which is good but not great
+i want it to be reduced below 1 for a the automatic speech recognition
+
+its still a work in progress , i want to complete it as soon as possible but the common voice dataset doesnt have a ton of santali audio to train on
+I'm currently recording audio for the santali dataset by myself and its a time taking progress 
+my current goal is to gather around 4 hours of audio data to train the whisper model.
