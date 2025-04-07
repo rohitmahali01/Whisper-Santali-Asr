@@ -13,4 +13,4 @@ my current goal is to gather around 4 hours of audio data to train the whisper m
 ## Testing And Finetuning - June 2025
 ## Deployment & Documentation - July 2025
 
-I have uploaded my jupyter notebook for reference: (https://github.com/rohitmahali01/Whisper-Santali-Asr/blob/main/Untitled0.ipynb)
+I have uploaded my jupyter notebook for reference: (https://github.com/rohitmahali01/Whisper-Santali-Asr/blob/main/untitled16.py)
